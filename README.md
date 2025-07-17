@@ -1,4 +1,4 @@
-<img src="Screenshots/Big-data-analytics-solutions.jpg" alt="Big Data Analytics Solutions Banner" width="100%" height="400px"/>
+<img src="Screenshots/Big-data-analytics-solutions.jpg" alt="Big Data Analytics Solutions Banner" width="100%" />
 
 # Implementation and Optimization of Big Data Analytics <br /> (on Sales Data) using MapReduce Combiners
 ## Overview
