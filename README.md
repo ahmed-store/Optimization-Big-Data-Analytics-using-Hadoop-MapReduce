@@ -12,47 +12,52 @@ In case of big data, volume, variety and velocity are the three main drivers tha
 <br />
 <br />
 
-### 2- Total Price Performance Evaluation
+### 2- Total Price and Transactions Count 
+<img src="Screenshots/Total Price and Transactions Count.png" alt="Total Price and Transactions Count" width="100%"/>
+<br />
+<br />
+
+### 3- Total Price Performance Evaluation
 <img src="Screenshots/Total Price Performance Evaluation.png" alt="Total Price Performance Evaluation" width="100%"/>
 <br />
 <br />
 
-### 3- Total Price Per Store
+### 4- Total Price Per Store
 <img src="Screenshots/1-Total Price Per Store.png" alt="Total Price Per Store" width="100%"/>
 <br />
 <br />
 
-### 4- Total Price Per Store Performance Evaluation
+### 5- Total Price Per Store Performance Evaluation
 <img src="Screenshots/1-Total Price Per Store Performance Evaluation.png" alt="Total Price Per Store Performance Evaluation" width="100%"/>
 <br />
 <br />
 
-### 5- Total Price Per Category
+### 6- Total Price Per Category
 <img src="Screenshots/2-Total Price Per Category.png" alt="Total Price Per Category" width="100%"/>
 <br />
 <br />
 
-### 6- Total Price Per Category Performance Evaluation
+### 7- Total Price Per Category Performance Evaluation
 <img src="Screenshots/2-Total Price Per Category Performance Evaluation.png" alt="Total Price Per Category Performance Evaluation" width="100%"/>
 <br />
 <br />
 
-### 7- Most Sold Brand
+### 8- Most Sold Brand
 <img src="Screenshots/3-Most Sold Brand.png" alt="Most Sold Brand" width="100%"/>
 <br />
 <br />
 
-### 8- Most Sold Brand Performance Evaluation
+### 9- Most Sold Brand Performance Evaluation
 <img src="Screenshots/3-Most Sold Brand Performance Evaluation.png" alt="Most Sold Brand Performance Evaluation" width="100%"/>
 <br />
 <br />
 
-### 9- Total Price Per Quarter
+### 10- Total Price Per Quarter
 <img src="Screenshots/4-Total Price Per Quarter.png" alt="Total Price Per Quarter" width="100%"/>
 <br />
 <br />
 
-### 10- Total Price Per Quarter Performance Evaluation
+### 11- Total Price Per Quarter Performance Evaluation
 <img src="Screenshots/4-Total Sales Per Quarter Performance Evaluation.png" alt="Total Price Per Quarter Performance Evaluation" width="100%"/>
 <br />
 <br />
