@@ -53,6 +53,6 @@ In case of big data, volume, variety and velocity are the three main drivers tha
 <br />
 
 ### 10- Total Price Per Quarter Performance Evaluation
-<img src="Screenshots/4-Total Price Per Quarter Performance Evaluation.png" alt="Total Price Per Quarter Performance Evaluation" width="100%"/>
+<img src="Screenshots/4-Total Sales Per Quarter Performance Evaluation.png" alt="Total Price Per Quarter Performance Evaluation" width="100%"/>
 <br />
 <br />
