@@ -1,4 +1,4 @@
-# Implementation and Optimization of Big Data Analytics (on Sales Data) using MapReduce Combiners
+# Implementation and Optimization of Big Data Analytics <br /> (on Sales Data) using MapReduce Combiners
 ## Overview
 The project aims to implement and optimize Big Data Analytics on sales data using Hadoop MapReduce combiners. It will focus on MapReduce Combiners implementation, comparing their performance against basic MapReduce (without Combiners), in-mapper combining, and a hybrid approach (in-mapper + Combiner + Reducer). Hadoop MapReduce, a powerful framework for processing large datasets, will be employed to efficiently handle the data.
 So, the primary goal of this project is to enhance the efficiency of the analysis process by leveraging the power of Hadoop MapReduce and its combiner optimization technique.
